@@ -17,9 +17,7 @@ Report
 ### Существующие методы:
 
 * Flesch-Kincaid Grade Level are based on weak proxies of text decoding (characters or syllables per word) 
-and syntactic complexity (i.e., number or words per sentence). 
- 
-As a result, they lack construct and theoretical validity. 
+and syntactic complexity (i.e., number or words per sentence). As a result, they lack construct and theoretical validity. 
 
 * At the same time, commercially available formulas, such as Lexile, 
 can be cost-prohibitive, lack suitable validation studies, 
