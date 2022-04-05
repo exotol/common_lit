@@ -3,16 +3,20 @@
 
 Report
 
-* Какую решаем задачу?
+### Какую решаем задачу?
 
 Оценить сложность текста для чтения 
 Градация 3-12 класс
 
-* Требование:
+### Требование к модели:
 Модель должна учитывать свзяность и семантику текста
 
+### Метрика 
 
-* Существующие методы:
+RMSE
+
+
+### Существующие методы:
 
 1. Flesch-Kincaid Grade Level are based on weak proxies of text decoding (characters or syllables per word) 
 and syntactic complexity (i.e., number or words per sentence). 
